@@ -36,10 +36,19 @@
 
 | Device | Usage | Price |
 |--------|--------|-------|
-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
-| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
-| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
+| Arduino Uno R3 | microcontrôleur principal, exécute tout le système | [40–80 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| Clavier matriciel 4x4 (keypad) | permet la saisie du code d’accès | [15–25 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| LED verte | indique que l’accès est autorisé | [1–2 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| LED rouge | indique que l’accès est refusé | [1-2 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| Résistances 220Ω (x2) | protègent les LED contre un courant excessif | [1-2 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| Buzzer | génère des signaux sonores d’alerte et de confirmation | [5-10 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| DHT11 temperature sensor | mesure la température ambiante | [10-20 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| LCD 16x2 display | affiche des messages pour l’utilisateur | [20-40 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+| SG90 micro servo motor | ouvre et ferme mécaniquement la porte | [15-25 RON](https://www.emag.ro/kit-de-pornire-super-pentru-arduino-pentru-placa-de-testare-uno-r3-motor-pas-cu-pas-servo-sg90-lcd-1602-cablu-de-legatura-tutorial-bk216/pd/DY9KSW3BM/?ref=ohs_buy_again_483369631) |
+
+
+
+
 
 ### Libraries
 
