@@ -19,6 +19,7 @@
   La partie de sortie est constituée des LED, du buzzer, du servomoteur et de l’écran LCD. La LED verte et le signal sonore indiquent un accès autorisé, tandis que la LED rouge et le son d’erreur signalent un code incorrect. En cas de température élevée, le système déclenche une alarme sonore continue, et le servomoteur peut contrôler l’ouverture ou la fermeture de la porte. L’écran LCD affiche des messages utiles pour l’utilisateur, comme la demande de code ou l’état du système.
   Dans l’ensemble, l’architecture du projet est modulaire et bien structurée, permettant une intégration fluide entre le matériel et le logiciel. Elle assure le fonctionnement d’un système automatisé de contrôle d’accès, avec des fonctions supplémentaires de sécurité pour la détection des situations d’urgence.
 ### Block diagram
+<img width="1013" height="747" alt="Block diagram-Guinea Ana" src="https://github.com/user-attachments/assets/afbde0ef-3069-4b3c-a9c0-5e469c1f391d" />
 
 
 <!-- Make sure the path to the picture is correct -->
