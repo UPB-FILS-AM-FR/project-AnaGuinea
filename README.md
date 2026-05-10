@@ -27,7 +27,8 @@
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+[Schema Proiect.zip](https://github.com/user-attachments/files/27571054/Schema.Proiect.zip)
+
 
 ### Components
 
