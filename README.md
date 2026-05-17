@@ -27,7 +27,10 @@
 
 ### Schematic
 
-[Schema Proiect.zip](https://github.com/user-attachments/files/27571054/Schema.Proiect.zip)
+[Schema Proiect.zip] [Schema Proiect.zip](https://github.com/user-attachments/files/27906854/Schema.Proiect.zip)
+
+
+
 
 
 ### Components
